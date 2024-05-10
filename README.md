@@ -1,6 +1,6 @@
 ### Olá. Eu me chamo Pedro Nogueira 👋
 
-- 🔭 Hoje eu trabalho com Front-end
+- 🔭 Hoje eu trabalho com Front-end e E-commerce
 - 🖥 Sou formado em Ciências da Computação
-- 💻 Estou cursando MBA de Engeharia de Dados na FIAP
+- 💻 Estou estudando sobre WEB 3.0 e o mercado Cripto
 
